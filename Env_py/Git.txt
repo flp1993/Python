@@ -1,0 +1,25 @@
+git init # Inicializa o repositorio
+
+git status # Ver os arquivos OK e os não enviados ainda
+
+git add . # Adiciona TODOS os arquivos existentes
+
+git add flpython/ # Adiciona arquivos ou pastas específicas
+
+git commit -m "Descrição" # Cria uma 'imagem de projeto' para ser enviado ao repositorio na nuvem.
+
+git log # mostra os commits feitos (Commits = Estados de alteração)
+
+git push # Joga pro repositorio remoto
+
+https://github.com/flp1993/flpython.git
+
+______________________________________________
+
+1 - Cria pasta pro projeto 
+2 - git clone https://github.com/flp1993/flpython.git 
+
+_____________________
+
+git pull # Pra receber atualizações feitas
+git push # Envia novas atualizações
